@@ -53,7 +53,7 @@ export default function Cards() {
             <figure><img className="w-full transition duration-500 hover:scale-125 hover:bg-blue-600" src="https://cdn.discordapp.com/attachments/937139620368511029/1044092347182501968/image.png" alt="Shoes" /></figure>
             <div className="card-body">
                 <h2 className="cardmd:-title">Angus</h2>
-                <p>One of the king's noblemen who is sent to inform Macbeth of his promotion to Thane of Cawdor </p>
+                <p>One of the king&apos;s noblemen who is sent to inform Macbeth of his promotion to Thane of Cawdor </p>
             </div>
             </div>
 
