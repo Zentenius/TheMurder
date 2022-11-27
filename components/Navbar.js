@@ -12,7 +12,7 @@ export default function Navbar() {
             <ul tabIndex={0} className="menu menu-compact dropdown-content mt-3 p-2 shadow bg-base-100 rounded-box w-52">
               <li>
                 <Link href="#homepage">
-                <a>Homepage</a>
+                Homepage
                 </Link>
               </li>
               <li tabIndex={0}>
@@ -56,7 +56,7 @@ export default function Navbar() {
               </ul>
             </li>
             <li> <Link href="#footer">
-                <a>Closing and Group members</a>
+                  Footer
                 </Link>
                 </li>
           </ul>
