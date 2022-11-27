@@ -16,7 +16,7 @@ export default function Cards() {
             <figure><img className='w-full transition duration-500 hover:scale-125 hover:bg-blue-600' src="https://cdn.discordapp.com/attachments/937139620368511029/1044027269586374676/image.png" alt="Shoes" /></figure>
             <div className="card-body">
                 <h2 className="card-title">Lady Macbeth</h2>
-                <p>Macbeth’s wife, a deeply ambitious woman who lusts for power and position. She seems to be the stronger and more ruthless of the two, as she urges her husband to kill Duncan and seize the crown. After the bloodshed begins, however, Lady Macbeth falls victim to guilt and madness to an even greater degree than her husband. Her conscience affects her to such an extent that she eventually commits suicide.</p>
+                <p>Macbeth&apos;s wife, a deeply ambitious woman who lusts for power and position. She seems to be the stronger and more ruthless of the two, as she urges her husband to kill Duncan and seize the crown. After the bloodshed begins, however, Lady Macbeth falls victim to guilt and madness to an even greater degree than her husband. Her conscience affects her to such an extent that she eventually commits suicide.</p>
             </div>
             </div>
             <div className="card md:w-96 bg-base-100 shadow-xl p-0 rounded-2xl">
@@ -61,7 +61,7 @@ export default function Cards() {
             <figure><img className="w-full transition duration-500 hover:scale-125 hover:bg-blue-600" src="https://cdn.discordapp.com/attachments/937139620368511029/1044092985165492315/image.png" alt="Shoes" /></figure>
             <div className="card-body">
                 <h2 className="card-title">Donaldbain</h2>
-                <p>One of the Duncan’s sons who flees the country due to the death of his fater </p>
+                <p>One of the Duncan&apos;s sons who flees the country due to the death of his fater </p>
             </div>
             </div>
 
