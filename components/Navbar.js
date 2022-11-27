@@ -1,7 +1,7 @@
 import Link from "next/link"
 import Image from "next/image"
 
-function Navbar() {
+export default function Navbar() {
     return(
       <div className="navbar text-white bg-base-200 sticky top-0 z-50">
         <div className="navbar-start">
