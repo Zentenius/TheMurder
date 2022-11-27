@@ -1,7 +1,10 @@
+import AOS from 'aos';
+import 'aos/dist/aos.css';
+
 export default function Cards() {
 
     return (
-    <section className="antialiased bg-gradient-to-r from-black to-[#313236]">
+    <section data-aos="fade-up" className="antialiased bg-gradient-to-r from-black to-[#313236]">
         <h1 className='text-center p-10'>Main Characters</h1>
             <div className="container mx-auto  w-11/12 justify-items-center sm:px-8 md:px-12">
             <div className="grid grid-cols-1 gap-20 grid-col-2 sm:grid-cols-1 md:grid-cols-3">
