@@ -18,7 +18,7 @@ export default function Themes() {
                         <tr className="hover h-40 p-0">
                         <th>1</th>
                         <td>Ambition</td>
-                        <td>The theme of ambition is  seen in Macbeth's constant need to become the king and to remain the king without being overthrown by anyone. <br></br>This ambition caused him to become  very involved in his own desires and to lose consideration of other persons he cared about. This ambition led to his ultimate downfall.</td>
+                        <td>The theme of ambition is  seen in Macbeth&apos;s constant need to become the king and to remain the king without being overthrown by anyone. <br></br>This ambition caused him to become  very involved in his own desires and to lose consideration of other persons he cared about. This ambition led to his ultimate downfall.</td>
                         </tr>
                         {/*<!-- row 2 -->*/}
                         <tr className="hover h-40">
@@ -57,7 +57,7 @@ export default function Themes() {
 
                         </div>
                         <div className="text-sm text-gray-700">
-                            The theme of ambition is  seen in Macbeth's constant need to become the king and to remain the king without being overthrown by anyone. This ambition caused him to become very involved in his own desires and to lose consideration of other persons he cared about. This ambition led to his ultimate downfall.
+                            The theme of ambition is  seen in Macbeth&apos;s constant need to become the king and to remain the king without being overthrown by anyone. This ambition caused him to become very involved in his own desires and to lose consideration of other persons he cared about. This ambition led to his ultimate downfall.
                         </div>
                     </div>
                     <div className="bg-base-200 p-4 rounded-lg shadow">
