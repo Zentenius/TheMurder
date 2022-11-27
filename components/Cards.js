@@ -1,8 +1,8 @@
 export default function Cards() {
 
     return (
-    <section data-aos="fade-up" className="antialiased bg-gradient-to-r from-black to-[#313236]">
-        <h1 className='text-center p-10'>Main Characters</h1>
+    <section data-aos="fade-up" className="antialiased bg-gradient-to-r from-black to-[#313236] pt-10 ">
+        <h1 className='text-center p-6'>Main Characters</h1>
             <div className="container mx-auto w-11/12 justify-items-center md:px-12">
             <div className="grid grid-cols-1 gap-20 grid-col-2 sm:grid-cols-1 md:grid-cols-3">
             <div className="card  md:w-full bg-base-100 shadow-xl p-0 rounded-2xl">
@@ -90,6 +90,7 @@ export default function Cards() {
         
             </div>
         </div>
+        <h2 className='text-gray-400 text-center pt-14'>Who do you think is the most interesting character here and why?</h2>
         </div>
     </section>
     )
