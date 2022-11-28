@@ -2,7 +2,7 @@ export default function Vocab() {
 
     return(
             <section  data-aos="fade-up" className='min-h-screen bg-gradient-to-r from-black to-[#313236]'>
-                <h1 className='text-center m-auto'>Themes</h1>
+                <h1 className='text-center m-auto'>Vocabulary</h1>
                 <div className="overflow-x-auto pt-10 w-3/4 m-auto hidden md:block">
                 <table className="table m-auto">
                     {/*<!-- head -->*/}

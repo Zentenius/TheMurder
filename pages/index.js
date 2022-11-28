@@ -6,6 +6,10 @@ import Opnion from "../components/Opnion"
 import Themes from "../components/Themes"
 import Conflict from "../components/Conflict"
 import Vocab from "../components/Vocab"
+import Location from "../components/Location"
+import Footer from "../components/Footer"
+import Games from "../components/Games"
+
 
 
 
@@ -20,6 +24,9 @@ export default function Home() {
       <Themes/>
       <Conflict/>
       <Vocab/>
+      <Location/>
+      <Games/>
+      <Footer/>
     </div>
   )
 }
