@@ -85,7 +85,7 @@ export default function Cards() {
             <figure><img className="w-full transition duration-500 hover:scale-125 hover:bg-blue-600" src="https://cdn.discordapp.com/attachments/937139620368511029/1044092790180687933/image.png" alt="Shoes" /></figure>
             <div className="card-body">
                 <h2 className="card-title">Malcolm</h2>
-                <span>Macduff stands out from a large cast of secondary characters because of the particular harm that Macbeth does to him, and the revenge Macduff takes on Macbeth in turn.</span>
+                <span>The other son of the Duncan who also flees the country after his father&apos;s death</span>
             </div>
         
             </div>
