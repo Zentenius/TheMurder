@@ -1,7 +1,7 @@
 export default function Themes() {
 
     return(
-            <section  data-aos="fade-up" className='min-h-screen bg-gradient-to-r from-black to-[#313236] justify-items-center'>
+            <section  data-aos="fade-up" className='min-h-screen bg-gradient-to-r from-black to-[#313236] justify-items-center pt-3'>
                 <h1 className='text-center m-auto'>Themes</h1>
                 <div className="overflow-x-auto pt-10 w-3/4 m-auto hidden md:block">
                     <table className="table">
